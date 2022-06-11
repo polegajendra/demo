@@ -1,2 +1,6 @@
-# demo
-for test
+#include<sdtio.h>
+main()
+{
+
+print("This is program");
+}
